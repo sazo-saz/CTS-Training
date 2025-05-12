@@ -1,0 +1,7 @@
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\collections\obj\Debug\collections.csproj.AssemblyReference.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\collections\obj\Debug\collections.csproj.CoreCompileInputs.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\collections\bin\Debug\collections.exe.config
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\collections\bin\Debug\collections.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\collections\bin\Debug\collections.pdb
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\collections\obj\Debug\collections.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\collections\obj\Debug\collections.pdb

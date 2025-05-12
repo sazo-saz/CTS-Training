@@ -1,0 +1,7 @@
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\proxy\bin\Debug\proxy.exe.config
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\proxy\bin\Debug\proxy.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\proxy\bin\Debug\proxy.pdb
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\proxy\obj\Debug\proxy.csproj.AssemblyReference.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\proxy\obj\Debug\proxy.csproj.CoreCompileInputs.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\proxy\obj\Debug\proxy.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\proxy\obj\Debug\proxy.pdb

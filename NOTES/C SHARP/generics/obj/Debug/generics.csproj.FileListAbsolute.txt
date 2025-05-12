@@ -1,0 +1,7 @@
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\generics\bin\Debug\generics.exe.config
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\generics\bin\Debug\generics.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\generics\bin\Debug\generics.pdb
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\generics\obj\Debug\generics.csproj.AssemblyReference.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\generics\obj\Debug\generics.csproj.CoreCompileInputs.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\generics\obj\Debug\generics.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\C SHARP\generics\obj\Debug\generics.pdb

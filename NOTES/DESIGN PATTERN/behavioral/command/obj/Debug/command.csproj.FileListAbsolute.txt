@@ -1,0 +1,7 @@
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\command\obj\Debug\command.csproj.AssemblyReference.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\command\obj\Debug\command.csproj.CoreCompileInputs.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\command\bin\Debug\command.exe.config
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\command\bin\Debug\command.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\command\bin\Debug\command.pdb
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\command\obj\Debug\command.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\command\obj\Debug\command.pdb

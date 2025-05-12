@@ -1,0 +1,7 @@
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\builder\bin\Debug\builder.exe.config
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\builder\bin\Debug\builder.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\builder\bin\Debug\builder.pdb
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\builder\obj\Debug\builder.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\builder\obj\Debug\builder.pdb

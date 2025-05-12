@@ -1,0 +1,7 @@
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\singleton\bin\Debug\singleton.exe.config
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\singleton\bin\Debug\singleton.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\singleton\bin\Debug\singleton.pdb
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\singleton\obj\Debug\singleton.csproj.AssemblyReference.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\singleton\obj\Debug\singleton.csproj.CoreCompileInputs.cache
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\singleton\obj\Debug\singleton.exe
+C:\Users\2406636\OneDrive - Cognizant\Desktop\CTS TRAINING\NOTES\DESIGN PATTERN\singleton\obj\Debug\singleton.pdb
